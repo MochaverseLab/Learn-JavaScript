@@ -1,5 +1,10 @@
 // kata kunci var adalah kata kunci yang digunakan untuk membuat variable
 
+/* <===============================================================================> */
+/* <===============================================================================> */
+
+
+
 // contoh penggunaan kata kunci var
 
 var sayYourName = "Atyla Azfa Al Harits";
@@ -10,12 +15,15 @@ sayYourName = "Harits Al Azfa Atyla";
 console.log(sayYourName);
 
 
-
+/* <===============================================================================> */
+/* <===============================================================================> */
 
 
 // masalah pada penggunaan kata kunci
 // kata kunci var memiliki perilaku yang berbeda dalam hal lingkup variable dan dapat menyebabkan masalah yang sulit di identifikasi dalam kode
 
+
+/* <===============================================================================> */
 
 
 // 1. hoisting (kenaikan)
@@ -25,6 +33,8 @@ var hello = "Hello bro!";
 // deklarasi variable akan naik ke atas lingkup fungsi atau blok, bahkan sebelum kode di jalankan
 // sehingga meskipun kita mencoba mengaksesnya sebelum dideklarasikan, tidak ada kesalahan. Namun, nilainya akan menjadi undefined sampai diberikan nilai.
 
+
+/* <===============================================================================> */
 
 
 // 2. tidak ada blok scope
@@ -39,6 +49,8 @@ console.log(x);
 // tidak hanya pada pengkondisian, ini juga berlaku pada perulangan atau looping
 // ini akan menjadi masalah ketika membuat kode yang kompleks
 
+
+/* <===============================================================================> */
 
 
 // 3. overriding global variables
@@ -55,8 +67,10 @@ console.log(x); // Output: 20 (variabel global)
 // mendeklarasikan variabel dengan nama yang sama di dalam dan di luar sebuah fungsi, variabel global akan ditimpa oleh variabel lokal dalam fungsi, yang dapat menyebabkan konflik dan kesalahan yang sulit diidentifikasi
 
 
+/* <===============================================================================> */
 
-// membuat variable tumpang tindih
+
+// 4. membuat variable tumpang tindih
 var abc = "abcdefghi";
 var abc = "abcdefghijklmnopq";
 console.log(abc); // abcdefghijklmnopq
@@ -70,9 +84,12 @@ sayGoodBye = "selamat tinggal";
 console.log(sayGoodBye); // selamat tinggal
 
 
-
+/* <===============================================================================> */
 
 
 // penggunaan var sudah tidak direkomendasikan lagi
 // gunakan let dan const
 // jika ingin menggunakan var harap tidak digunakan untuk pembuatan aplikasi yang kompleks
+
+
+/* <===============================================================================> */

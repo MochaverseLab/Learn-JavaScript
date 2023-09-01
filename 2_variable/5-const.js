@@ -4,6 +4,10 @@
 // begitu pula dengan const yang digunakan untuk menampung nilai tetap
 
 
+/* <===============================================================================> */
+/* <===============================================================================> */
+
+
 // contoh penggunakan kata kunci const
 const lastName = "Al Harits";
 console.log(lastName);
@@ -20,3 +24,6 @@ console.log(lastName); // error
 
 // jadi pada intinya let dan const itu sama
 // yang membedakannya adalah cara menampung nilainya
+
+
+/* <===============================================================================> */

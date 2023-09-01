@@ -3,6 +3,10 @@
 // beberapa method ini digunakan untuk menuliskan data ke dalam document HTML
 
 
+/* <===============================================================================> */
+/* <===============================================================================> */
+
+
 
 // output tanpa new line atau akhiran
 document.write("Hello World!");

@@ -3,6 +3,9 @@
 // untuk menuliskan hello world kedalam console kita perlu menggunakan beberapa method dan dari masing-masing method tersebut mengeluarkan jenis pesan output yang berbeda sesuai dengan kegunaannya
 
 
+/* <===============================================================================> */
+/* <===============================================================================> */
+
 
 
 // dalam bentuk informasi

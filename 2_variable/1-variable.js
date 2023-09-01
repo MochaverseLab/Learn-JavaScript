@@ -2,6 +2,9 @@
 // variable ada yang bersifat mutable (nilai bisa berubah) dan imutable (tidak bisa berubah)
 // di javascript ada 3 jenis variable yaitu var, let, dan const;
 
+/* <===============================================================================> */
+/* <===============================================================================> */
+
 
 // membuat variable di JavaScript
 
@@ -30,11 +33,15 @@ console.log(sayGoodAfternoon); // good afternoon
 
 
 
+/* <===============================================================================> */
+/* <===============================================================================> */
+
 
 
 // kita bisa membuat banyak variable dalam satu kata kunci saja
 // yaitu dengan cara menggunakan , (tanda koma)
 // contohnya
+
 
 // var
 var fullName = "Al Harits", address = "Lakbok, Ciamis", age = 18;
@@ -52,6 +59,10 @@ console.log(langFavourite + " " + experience + " " + level); // JavaScript 1 yea
 
 
 
+/* <===============================================================================> */
+
 // untuk penjelasan lengkap tentang variable kalian bisa buka masing-masing file var.js, let.js, dan const.js. untuk penjelasan lebih lanjut
 
 // kalian bisa buka file hoisting.js untuk penjelasan lebih lanjut apa itu hoisting
+
+/* <===============================================================================> */

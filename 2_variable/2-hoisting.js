@@ -1,4 +1,8 @@
-// hoisting adalah konsep pemrograman di JavaScript dimana deklarasi variable dipindahkan ke bagian atas cakupan (scope), dari tempat variable itu di deklarasikan sebelum kode aktual dieksekusi.
+// hoisting adalah konsep pemrograman di JavaScript dimana deklarasi variable dipindahkan ke bagian atas, dari tempat variable itu di deklarasikan sebelum kode aktual dieksekusi.
+
+/* <===============================================================================> */
+/* <===============================================================================> */
+
 
 // contoh sederhananya sebagai berikut
 
@@ -19,6 +23,8 @@ function sayHello(){
 
 sayHello();
 
-
+/* <===============================================================================> */
 
 // semoga dapat dimengerti :)
+
+/* <===============================================================================> */
