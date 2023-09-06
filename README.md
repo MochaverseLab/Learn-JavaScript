@@ -1,7 +1,7 @@
-<h1 align="center">
-<img src="https://www.svgrepo.com/show/353925/javascript.svg" width="90">
-<p style="font-size: 20">JavaScript</p>
-</h1>
+<div align="center">
+<img src="https://www.svgrepo.com/show/353925/javascript.svg" width="80">
+<h1>JavaScript</h1>
+</div>
 <h2>📜About JavaScript</h2>
 <p align="justify">JavaScript adalah bahasa pemrograman tingkat tinggi yang diciptakan untuk pengembangan web yang lebih interaktif. JavaScript adalah bahasa skrip yang berjalan di sisi client, 
   yang berarti kode JavaScript diinterpretasikan di web pengguna. JavaScript pertama kali dikembangkan oleh seorang ahli komputer bernama Brendan Eich dari 
