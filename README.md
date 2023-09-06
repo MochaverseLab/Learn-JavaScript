@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.svgrepo.com/show/353925/javascript.svg" width="80">
+<img src="https://www.svgrepo.com/show/353925/javascript.svg" width="55">
 <h1>JavaScript</h1>
 </div>
 <h2>📜 About JavaScript</h2>
