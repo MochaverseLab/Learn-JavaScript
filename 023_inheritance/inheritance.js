@@ -37,7 +37,7 @@ class Myself extends Mother{
 
     identity(){
         console.log(`Aku mempunyai wajah ${this.face}, rambut ${this.hair}, warna kulit ${this.skinColor} dan bermata ${this.eyeColor}`);
-        this.sayHello() // menggunakan method dari class Mother
+        super.sayHello() // menggunakan method dari class Mother
     }
 }
 
