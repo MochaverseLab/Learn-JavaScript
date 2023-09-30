@@ -22,4 +22,5 @@
   <li>ECMAScript 6 (2015)</li>
   <li>ECMAScript 2022 (2022)</li>
 </ul>
-<h2></h2>
+<h2>🪧 Tujuan</h2>
+<p align="justify">Tujuan dibuatnya repository ini adalah untuk mencatat dan mempresentasikan perjalanan saya dalam belajar bahasa pemrograman JavaScript.</p>
