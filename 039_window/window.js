@@ -10,6 +10,5 @@ showInfo.textContent = `Lebar layar = ${window.screen.width}, Tinggi layar = ${w
 
 // sebenarnya masih ada banyak sekali property-property dari object window ini
 // namun sangat tidak mungkin jika dijelaskan semua sekaligus
-// temen-temen bisa eksplorasi sendiri
 
 /* <===============================================================================> */
