@@ -12,15 +12,6 @@
 </p>
 <p align="justify">JavaScript menjadi standar industri pada tahun 1997 dengan terbitnya ECMAScript 1.0. ECMAScript adalah spesifikasi teknis yang menentukan bahasa JavaScript. 
   Versi terbaru dari ECMAScript adalah ECMAScript 2022.</p>
-<h2>🔧 Versi JavaScript</h2>
-<ul>
-  <li>Mocha (1995)</li>
-  <li>LiveScript (1995)</li>
-  <li>JavaScript (1996)</li>
-  <li>ECMAScript 1.0 (1997)</li>
-  <li>ECMAScript 5.0 (2009)</li>
-  <li>ECMAScript 6 (2015)</li>
-  <li>ECMAScript 2022 (2022)</li>
-</ul>
+
 <h2>🪧 Tujuan</h2>
 <p align="justify">Tujuan dibuatnya repository ini adalah untuk mencatat dan mempresentasikan perjalanan saya dalam belajar bahasa pemrograman JavaScript.</p>
