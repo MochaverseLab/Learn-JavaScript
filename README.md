@@ -14,4 +14,4 @@
   Versi terbaru dari ECMAScript adalah ECMAScript 2022.</p>
 
 <h2>🪧 Tujuan</h2>
-<p align="justify">Tujuan dibuatnya repository ini adalah untuk mencatat dan mempresentasikan perjalanan saya dalam belajar bahasa pemrograman JavaScript. Saya juga diharapkan bisa mengajarkan kembali materi yang saya pelajari kepada orang lain. Ini adalah teknik belajar saya, menulis kode sambil menerangkan penggunaan dari kode tersebut sesuai dengan anjuran para senior. Meskipun penjelasan saya kurang lengkap atau sulit dimengerti, tidak akan ada satu juta tanpa angka nol.</p>
+<p align="justify">Tujuan dibuatnya repository ini adalah untuk mencatat dan mempresentasikan perjalanan saya dalam belajar bahasa pemrograman JavaScript. Saya juga diharapkan bisa mengajarkan kembali materi yang saya pelajari kepada orang lain. Ini adalah teknik belajar saya, menulis kode sambil menerangkan penggunaan dari kode tersebut sesuai dengan anjuran para senior. Meskipun penjelasan saya kurang lengkap atau sulit dimengerti.</p>
