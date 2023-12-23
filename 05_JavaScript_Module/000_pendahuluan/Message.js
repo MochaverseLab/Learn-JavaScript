@@ -1,0 +1,11 @@
+/* 
+
+Pada tutorial berikutnya kita akan membahas mengenai cara membuat module di JavaScript
+module digunakan untuk mengambil suatu data dari file JavaScript lain yang dijadikan file module
+untuk membuat module format ekstension bisa menggunakan .mjs atau .js saja
+
+untuk membuat module kita akan sering menggunakan export dan import
+export digunakan untuk mengeksport data dari file module
+import digunakan untuk mengimport dari data yang dieskport dari file module
+
+*/
