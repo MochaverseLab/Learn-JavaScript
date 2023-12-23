@@ -1,5 +1,5 @@
 // Promise adalah adalah object yang meawakili nilai yang belum tersedia, namun akan tersedia pada suatu waktu dimasa depan
-// promise dapat diibaratkan seperti janji, janji ini punya tiga kemungkinan yaitu ditepati, diingkari, dan tertunda
+// promise dapat diibaratkan seperti janji, janji ini punya dua kemungkinan yaitu ditepati, diingkari
 
 /* <===============================================================================> */
 /* <===============================================================================> */
